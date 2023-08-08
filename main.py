@@ -50,3 +50,4 @@ for pib in pib_test:
         print(f"PIB  {pib}  TRUE")
     else:
         print(f"PIB  {pib}  false")
+print("finish work")
